@@ -1,0 +1,13 @@
+{
+  "Option": {
+    "name": "string",
+    "type": "string",
+    "choices": "Choice[]"
+  },
+  "Choice": {
+    "body": "string"
+  },
+  "Category": {
+    "name": "string"
+  }
+}
